@@ -1,0 +1,4 @@
+﻿    interface IRun
+    {
+    void Run();
+    }
